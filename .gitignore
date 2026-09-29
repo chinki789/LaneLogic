@@ -147,3 +147,5 @@ person1_detection/dataset/
 
 # Analysis phase streams
 analysis*.jsonl
+
+person6_frontend/public/
